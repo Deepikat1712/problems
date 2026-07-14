@@ -17,3 +17,18 @@
 - Conditional Statements (`if-else`)
 - Mid Calculation
 
+
+
+## Problem 2
+
+
+### Third Maximum Number
+
+- **Problem Number:** 414
+- **Platform:** LeetCode
+- **Difficulty:** Easy
+- **Language:** Java
+
+
+
+
